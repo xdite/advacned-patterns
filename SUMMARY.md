@@ -13,6 +13,7 @@
    * [Move to Service Object](controllers/move_to_service_object.md)
    * [Inheritance ](controllers/inheritance.md)
 * [Model](model/README)
+   * [before_create](model/before_create.md)
 * [Object Orient Design](object_orient_design/README)
 * [Concerns](concerns/README.md)
 

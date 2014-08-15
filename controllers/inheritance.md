@@ -22,6 +22,8 @@ end
 
 ```
 
+## Refactor
+
 can be refactor to
 
 ``` ruby
