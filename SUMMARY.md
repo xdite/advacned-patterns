@@ -15,6 +15,9 @@
 * [Model](model/README)
    * [before_create](model/before_create.md)
    * [Model Concern](model/model_concern.md)
-* [Object Orient Design](object_orient_design/README)
-* [Concerns](concerns/README.md)
+* [Object Oriented Design](object_oriented_design/README)
+   * [Reading List](object_oriented_design/reading_list.md)
+* [Migration & Tasks](migration_&_tasks/README)
+   * [rails console](migration_&_tasks/rails_console.md)
+   * [migrations](migration_&_tasks/migrations.md)
 
