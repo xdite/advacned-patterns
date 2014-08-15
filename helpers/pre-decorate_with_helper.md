@@ -41,3 +41,11 @@ then
 
 Afterwards, you can extend it easily.
 
+
+## More examples
+
+* render_post_author
+* render_post_published_date
+* render_post_title
+* render_post_content
+
