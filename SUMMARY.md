@@ -14,6 +14,7 @@
    * [Inheritance ](controllers/inheritance.md)
 * [Model](model/README)
    * [before_create](model/before_create.md)
+   * [Model Concern](model/model_concern.md)
 * [Object Orient Design](object_orient_design/README)
 * [Concerns](concerns/README.md)
 
