@@ -1,5 +1,9 @@
 # Move to model
 
+* if you need to modify objects in controller, if actions is longer than > 5 lines, and clear can't see it's purpose. you should wrap into model as a method.
+
+
+
 ( Before )
 
 ``` ruby
