@@ -11,6 +11,7 @@
 * [Controllers](controllers/README.md)
    * [Move to model](controllers/move_to_model.md)
    * [Move to Service Object](controllers/move_to_service_object.md)
+   * [Inheritance ](controllers/inheritance.md)
 * [Model](model/README)
 * [Object Orient Design](object_orient_design/README)
 * [Concerns](concerns/README.md)
