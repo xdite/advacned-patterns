@@ -5,8 +5,9 @@
    * [Pre-decorate with Helper](helpers/pre-decorate_with_helper.md)
    * [Avoid write ruby code among HTML](helpers/avoid_write_ruby_code_among_html.md)
    * [Mix Helper with Partial](helpers/mix_helper_with_partial.md)
+   * [Wrap into model method](helpers/wrap_into_model_method.md)
 * [Controllers](controllers/README)
 * [Model](model/README)
 * [Object Orient Design](object_orient_design/README)
-* [Concerns](concerns/README)
+* [Concerns](concerns/README.md)
 
