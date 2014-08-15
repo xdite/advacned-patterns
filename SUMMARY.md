@@ -9,6 +9,7 @@
    * [Timeing for Using Partials](helpers/timeing_for_using_partials.md)
    * [Select Helper in View](helpers/select_helper_in_view.md)
 * [Controllers](controllers/README.md)
+   * [Move to model](controllers/move_to_model.md)
 * [Model](model/README)
 * [Object Orient Design](object_orient_design/README)
 * [Concerns](concerns/README.md)
