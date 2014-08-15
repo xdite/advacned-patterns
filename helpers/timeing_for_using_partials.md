@@ -1,0 +1,1 @@
+# Timeing for Using Partials
